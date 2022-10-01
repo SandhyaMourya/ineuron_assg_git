@@ -52,16 +52,58 @@ This command commits any files you’ve added with the git add command and also 
 
 ![git_commit](https://user-images.githubusercontent.com/40556115/193409971-9870d5ed-a3e8-4cee-b0e1-4894168cc379.PNG)
 
-7.Git branch change 
+7.Git branch  
 
+rename:
 Usage: git branch -m [branch name]
 
 In order to change a branch name on Git, you have to use the “git branch” command followed by the “-m” option. Next, you just have to specify the name of the new branch. Note : before changing the branch name, make sure to switch to the branch that you want to rename.
 
 ![git_branch](https://user-images.githubusercontent.com/40556115/193410052-a9454799-ebfd-48e9-8f79-4c197866e693.PNG)
 
+8.Git remote
 
+Usage: git remote add [variable name] [Remote Server Link]
 
+This command is used to connect your local repository to the remote server.
+
+![git_remote](https://user-images.githubusercontent.com/40556115/193410353-dd050fbc-2299-4da0-95cc-6b4731776523.PNG)
+
+9.Git push
+
+Usage: git push [variable name] master
+
+This command sends the committed changes of master branch to your remote repository.
+
+Usage: git push [variable name] [branch]
+
+This command sends the branch commits to your remote repository.
+
+![git_push](https://user-images.githubusercontent.com/40556115/193410370-6b10889c-5394-436b-81cc-815287560f5f.PNG)
+
+11.Git checkout
+
+Usage: git checkout [branch name]
+
+This command is used to switch from one branch to another.
+
+![git_checkotut](https://user-images.githubusercontent.com/40556115/193410471-1c38538e-cdc3-4370-a873-80742df51dd4.PNG)
+
+12.Git merge
+
+Usage: git merge [branch name]
+
+This command merges the specified branch’s history into the current branch.
+
+![merege](https://user-images.githubusercontent.com/40556115/193410494-e573dbf2-b4d2-4e9d-9a7f-d32e14e9a8ea.PNG)
+
+13.Git branch create:
+
+Usage: git branch [branch_name]
+
+The git branch command can be used to create a new branch. When you want to start a new feature, you create a new branch off main using git branch new_branch . Once created you can then use git checkout new_branch to switch to that branch.
+
+![git_branch_create](https://user-images.githubusercontent.com/40556115/193410406-f3743891-d0d6-4c97-9db9-3297b8c9f060.PNG)
 
 
 
