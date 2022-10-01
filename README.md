@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 1. Git init
 
@@ -115,3 +116,7 @@ This command list out all the branches that are in remote
 ![image](https://user-images.githubusercontent.com/40556115/193410893-da4a7043-1bad-42c7-9b2f-7335b7dda6d3.png)
 
 
+=======
+## Basic git commands we use requently in our daily routine
+
+>>>>>>> main
