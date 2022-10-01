@@ -105,5 +105,14 @@ The git branch command can be used to create a new branch. When you want to star
 
 ![git_branch_create](https://user-images.githubusercontent.com/40556115/193410406-f3743891-d0d6-4c97-9db9-3297b8c9f060.PNG)
 
+14.Git branch remote:
+
+Usage: git branch -r
+
+This command list out all the branches that are in remote
+
+![image](https://user-images.githubusercontent.com/40556115/193410893-da4a7043-1bad-42c7-9b2f-7335b7dda6d3.png)
+
+
 
 
