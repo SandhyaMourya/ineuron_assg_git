@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+## Basic git commands we use requently in our daily routine
 
 1. Git init
 
@@ -117,6 +116,4 @@ This command list out all the branches that are in remote
 
 
 =======
-## Basic git commands we use requently in our daily routine
 
->>>>>>> main
