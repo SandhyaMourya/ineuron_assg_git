@@ -1,10 +1,5 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-## main branch
-=======
-## create readme file
-=======
-Task 1
 
 1. Git init
 
@@ -119,12 +114,4 @@ This command list out all the branches that are in remote
 
 ![image](https://user-images.githubusercontent.com/40556115/193410893-da4a7043-1bad-42c7-9b2f-7335b7dda6d3.png)
 
->>>>>>> 1e68de7c02ab771fc399a8619dc8941960639d7b
 
-
-
-<<<<<<< HEAD
-## create new branch dev1 
->>>>>>> dev1
-=======
->>>>>>> 1e68de7c02ab771fc399a8619dc8941960639d7b
