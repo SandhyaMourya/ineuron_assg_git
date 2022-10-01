@@ -1,10 +1,2 @@
-<<<<<<< HEAD
-## main branch
-=======
-## create readme file
+## Basic git commands we use requently in our daily routine
 
-
-## git init
-
-## create new branch dev1 
->>>>>>> dev1
